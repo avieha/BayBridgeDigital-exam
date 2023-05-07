@@ -1,0 +1,19 @@
+{
+  "name": "baybridgeexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avieha/BayBridgeDigital-exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avieha/BayBridgeDigital-exam/issues"
+  },
+  "homepage": "https://github.com/avieha/BayBridgeDigital-exam#readme"
+}
